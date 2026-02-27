@@ -1,5 +1,15 @@
-## Hi there 👋
+I'm a Junior Backend Developer learning Python and Django.
+Currently studing backend development.
+Completed: Python core, HTML & CSS basics, SQL basics, Django ORM, 
+How the web works.
+Now learning: Django Forms
 
+Tech stack:
+- Python
+- Django
+- HTML, CSS
+- SQL
+- Git
 <!--
 **Rar571/Rar571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
