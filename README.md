@@ -1,8 +1,8 @@
 I'm a Junior Backend Developer learning Python and Django.
 Currently studing backend development.
-Completed: Python core, HTML & CSS basics, SQL basics, Django ORM, 
+Completed: Python core, HTML & CSS basics, SQL basics, Django ORM, Django, 
 How the web works.
-Now learning: Django
+Now learning: Django REST framework
 
 Tech stack:
 - Python
