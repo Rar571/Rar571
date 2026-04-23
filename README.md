@@ -7,7 +7,7 @@ Tech stack:
 - Python
 - Django
 - Django Rest Framework
-- HTML, CSS
+- HTML, CSS (basics)
 - SQL
 - Git
 
