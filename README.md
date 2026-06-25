@@ -4,7 +4,8 @@ Currently studing backend development.
 Tech stack:
 - Python
 - Django
-- Django Rest Framework
+- Django Rest Framewowk
+- FastApi 
 - HTML, CSS 
 - SQL
 - Git
